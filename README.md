@@ -1,7 +1,5 @@
 # SchwabAutoTrading (SAT)
 We automatically trade options via some simple algorithms and it's only applicable for Charles Schwab Accounts. 
-The author is Lin with MathPhdTrading and she explains her algorithms more in details in 
-her Youtube Channel: https://youtube.com/@mathphdtrading-sv2024?si=3MZf12bxZ4E5TL3x. 
 
 *** I just added The Wheel Strategy, please try it out!!! ***
 ## Brief Description of the Algorithms
@@ -92,6 +90,3 @@ and theta_analyzer.py gives you a portfolio theta decay rate and a nice scatter 
 and expiration date. 
 
 main.py: Run this every day to trade!!!!
-
-## Note
-If you have any questions about the code, please email me at MathPhdTrading@gmail.com. 
